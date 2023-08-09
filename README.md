@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pedro Martinez
-- 👀 I’m interested in, actually, many many things, web developing, of course.....and more and more
-- 🌱 I’m currently learning JS, HTML, CSS
-- 💞️ I’m looking to collaborate on HTML/CSS projects!
+- 👀 I’m interested in web developing.....retro video games, music
+- 🌱 I’m currently learning JS, HTML, CSS, React, Node.js, Mongo
+- 💞️ I’m looking to collaborate on projects!
 - 📫 How to reach me, my email: pjoma2006@gmail.com | my linkedIn https://www.linkedin.com/in/pejoma/
 
 <!---
